@@ -1,6 +1,6 @@
 # Hi 
 This is a controllable turtle
-Use your WASD and spacebar keys to more around and SPLHC to perform various simple tasks like drawing a circle 
+Use your WASD and spacebar keys to move around and SPLHC to perform various simple tasks like drawing a circle 
 Feel free to change the keybinds 
 
 # How to download-
